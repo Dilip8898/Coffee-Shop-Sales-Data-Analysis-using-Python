@@ -1,4 +1,6 @@
 # ☕ Coffee Shop Sales Dashboard
+<img width="1880" height="817" alt="Coffee_shop_Dashboard SS" src="https://github.com/user-attachments/assets/cb5028de-afc5-4b41-8472-9ac2d5fdee87" />
+
 
 ## 📌 Project Overview
 This project presents an interactive Coffee Shop Sales Dashboard designed to analyze sales performance, customer behavior, and operational trends across multiple store locations. The dashboard provides clear, actionable insights through KPIs and visualizations to support data-driven decision-making.
@@ -30,6 +32,5 @@ This project presents an interactive Coffee Shop Sales Dashboard designed to ana
 ## 📂 Dataset
 - Transaction-level coffee shop sales data including date, time, product category, size, location, and bill amount
 
-🚀 Use Case
-
-This project is ideal for showcasing business intelligence, data visualization, and analytical storytelling skills using a real-world retail dataset.
+## 🚀 Use Case
+- This project is ideal for showcasing business intelligence, data visualization, and analytical storytelling skills using a real-world retail dataset.
